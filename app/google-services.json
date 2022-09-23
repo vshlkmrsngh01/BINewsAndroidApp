@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571525659389",
+    "project_id": "news-of-bharaidea",
+    "storage_bucket": "news-of-bharaidea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571525659389:android:dcefc5c6ec300b760e5c94",
+        "android_client_info": {
+          "package_name": "com.newsof.bharatidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571525659389-75gf0vd7hd063d3v72jqcjaukh2jl7r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsof.bharatidea",
+            "certificate_hash": "4e60aa57eb55bb305339582289a7945f660bd188"
+          }
+        },
+        {
+          "client_id": "571525659389-mhts3slp7m67vmmd1fg5703af344oeqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMpRT0pBGUU8M3wUbVDRJ5mghXyPmlmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571525659389-mhts3slp7m67vmmd1fg5703af344oeqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

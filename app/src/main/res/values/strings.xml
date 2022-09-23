@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BharatIdea</string>
+    <string name="tag_line">BharatIdea</string>
+
+    <string name="ADMOB_APP_ID">ca-app-pub-4541093340043327~7963512390</string>
+    <string name="BANNER">ca-app-pub-4541093340043327/7062553757</string>
+    <string name="INTERSTITIAL">ca-app-pub-4541093340043327/7333537569</string>
+
+    <string name="exit_txt"><b>Do you want to exit from app ?</b> </string>
+</resources>
